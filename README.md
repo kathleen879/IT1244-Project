@@ -1,7 +1,7 @@
 # IT1244-Project
 This project focuses on sentiment classification using a movie review dataset. The primary objective is to build and evaluate a machine learning model that accurately predicts the sentiment of movie reviews, categorising them as either positive or negative.
 
-1. Movie Review Dataset
+### 1. Movie Review Dataset
 
 •
 Description: This dataset contains movie reviews designed as a benchmark for sentiment classification tasks.
@@ -18,7 +18,7 @@ Each review is stored as a separate text file within these ZIP archives.
 •
 Purpose: To train and evaluate the sentiment classification model.
 
-2. Additional Dataset: Spotify User Reviews
+### 2. Additional Dataset: Spotify User Reviews
 
 •
 Description: This dataset consists of over 51,000 user reviews of the Spotify application, scraped from the Google Play Store between January and July 2022.
