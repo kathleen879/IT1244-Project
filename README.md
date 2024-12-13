@@ -34,24 +34,17 @@ Purpose: To supplement the movie review dataset and enhance the model’s abilit
 
 ### Set Up Instructions 
 Setting Up the Google Colab project environment
-
 1.
 Upload Datasets to Google Drive: Upload the Movie Review and Spotify datasets to a designated folder in your Google Drive, ensuring they are in the correct location for easy extraction.
-
 2.
 Mount Google Drive: Start by mounting your Google Drive to access the dataset files.
-
 3.
 Install Required Libraries: Make sure to install the necessary libraries, including nltk and wordcloud.
-
 4.
 Import Libraries: Import all required libraries for data processing and visualization, including zipfile, os, nltk, matplotlib, seaborn, and wordcloud.
-
 5.
 Extract the Movie Review Datasets: Extract the positive and negative movie reviews from their respective ZIP files using the zipfile library.
-
 6.
 Load the Extracted Data: Load the text files from the extracted folders into a pandas DataFrame for analysis.
-
 7.
 Analyze and Visualize: Proceed with your analysis and visualization tasks, such as generating word clouds or conducting sentiment analysis.
