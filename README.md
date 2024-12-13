@@ -4,7 +4,7 @@ This project focuses on sentiment classification using a movie review dataset. T
 ### 1. Movie Review Dataset
 
 •
-Description: This dataset contains movie reviews designed as a benchmark for sentiment classification tasks.
+Description: This dataset contains movie reviews designed as a benchmark for sentiment classification tasks. It contains 50000 positive reviews and 50000 negative reviews.
 
 •
 Structure:
@@ -31,3 +31,27 @@ Sample Size: For analysis, we extracted 20,000 positive and 20,000 negative revi
 
 •
 Purpose: To supplement the movie review dataset and enhance the model’s ability to generalize sentiment classification across different domains.
+
+### Set Up Instructions 
+Setting Up the Google Colab project environment
+
+1.
+Upload Datasets to Google Drive: Upload the Movie Review and Spotify datasets to a designated folder in your Google Drive, ensuring they are in the correct location for easy extraction.
+
+2.
+Mount Google Drive: Start by mounting your Google Drive to access the dataset files.
+
+3.
+Install Required Libraries: Make sure to install the necessary libraries, including nltk and wordcloud.
+
+4.
+Import Libraries: Import all required libraries for data processing and visualization, including zipfile, os, nltk, matplotlib, seaborn, and wordcloud.
+
+5.
+Extract the Movie Review Datasets: Extract the positive and negative movie reviews from their respective ZIP files using the zipfile library.
+
+6.
+Load the Extracted Data: Load the text files from the extracted folders into a pandas DataFrame for analysis.
+
+7.
+Analyze and Visualize: Proceed with your analysis and visualization tasks, such as generating word clouds or conducting sentiment analysis.
