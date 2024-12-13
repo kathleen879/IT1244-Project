@@ -1,2 +1,2 @@
 # IT1244-Project
-Our project applies sentiment analysis to classify movie reviews as positive or negative, a key task in natural language processing.
+This project focuses on sentiment classification using a movie review dataset. The primary objective is to build and evaluate a machine learning model that accurately predicts the sentiment of movie reviews, categorising them as either positive or negative.
